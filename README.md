@@ -32,3 +32,8 @@ This dashboard visualizes trends from 682 reported incidents and accidents that 
 * 4% of all incidents were fatal.
 
 * Space Mountain (Disney World) had the highest fatality rate, with 10% of its incidents resulting in death.
+
+### Data Source
+
+This dashboard is based on publicly available data from [Universal/Disney World Incident Data (2002-2022)](https://www.kaggle.com/datasets/aaronjones32/universalwdw-incident-data-20022022/data).  
+All credit for the original dataset goes to the dataset author on Kaggle.
